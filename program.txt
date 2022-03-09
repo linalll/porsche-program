@@ -1,0 +1,44 @@
+ 		 PORSCHE 		  
+ Car category: 
+
+
+Texture: 
+ 1.Leather 	 10,000$
+ 2.Plastic Hex 	 3,500$
+ 3.Textile Gray	 5,000$
+
+
+ Rims Size: 
+
+ 1.205/55/R16  4,000$
+
+ 2.225/45/R17  6,000$ 
+
+ 3.225/40/R18  8,000$ 
+
+ 4.275/30/R19  11,000$ 
+
+
+
+ Exterior Colors:
+
+ 1.Black Matte   1,500$
+
+ 2.Mettalic Blue 1,500$ 
+
+ 3.Mettalic Red  3,000$ 
+
+ 4.Venta Black   6,000$
+
+
+
+Interior Colors:
+
+ 1.Piano Black   4,500$ 
+
+ 2.Carbon Fiber  7,000$ 
+
+ 3.Red /Black    4,000$
+
+ 4. Beige/Black  4,000$
+

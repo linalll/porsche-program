@@ -1,0 +1,3 @@
+code > project > build options > linker setting > other linker 
+
+-lwinmm
